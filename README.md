@@ -56,5 +56,5 @@ is used to install three npm packages in a Node.js project:
     
 3.  **Axios**: A Promise-based HTTP client for making API requests from the browser or Node.js. It provides a simple API for making HTTP requests and handling responses.
     
-By installing these packages with npm, you can use them in your Node.js project and import them into your JavaScript files to use their functionality. For example, you could use Bootstrap to style your React components, React Router DOM to create a client-side routing system, and Axios to make API requests from your frontend.
--
+	By installing these packages with npm, you can use them in your Node.js project and import them into your JavaScript files to use their functionality. For example, you could use Bootstrap to style your React components, React Router DOM to create a client-side routing system, and Axios to make API requests from your frontend.
+
