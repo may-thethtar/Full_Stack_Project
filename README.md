@@ -46,8 +46,17 @@ Project Structure of React Frontend
 
 Things that need to install in backend for the project
 ======================
--bootstrap
 
--axios
+`npm install bootstrap react-router-dom axios"`
+
+is used to install three npm packages in a Node.js project:
+
+1.  **Bootstrap**: A popular front-end framework for creating responsive web designs. It provides a set of CSS styles, JavaScript plugins, and UI components that can be used to quickly create a user interface.
+    
+2.  **React Router DOM**: A library that provides client-side routing for React applications. It allows you to create different routes and URLs for different components and provides a way to navigate between them.
+    
+3.  **Axios**: A Promise-based HTTP client for making API requests from the browser or Node.js. It provides a simple API for making HTTP requests and handling responses.
+    
+By installing these packages with npm, you can use them in your Node.js project and import them into your JavaScript files to use their functionality. For example, you could use Bootstrap to style your React components, React Router DOM to create a client-side routing system, and Axios to make API requests from your frontend.
 
 -
