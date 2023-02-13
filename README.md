@@ -61,5 +61,7 @@ By installing these packages with npm, you can use them in your Node.js project 
 How to run
 =========
 We would be run the two files concurrently.
-Run `node server.js`   for the backend 
-Run `npm start` for the front end 
+
+-Run `node server.js`   for the backend 
+
+-Run `npm start` for the front end 
