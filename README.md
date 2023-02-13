@@ -5,9 +5,9 @@ Project Description
 ==================
 In this project, I had to learn about the React for the front end and Express framework of Node.js for Backend. As a first step, I will buid step by step to build Node.js Restful CRUD API using Express, Sequelize with MySQL databse. The main function of this web apllication is CRUD but we implemt the functions by using express node.js for the backend.
  I had to  build a full-stack Tutorial Application in that:
--Tutorial has id, title, description, published status.
--User can create, retrieve, update, delete Tutorials.
--There is a search box for finding Tutorials by title.
+  -Tutorial has id, title, description, published status.
+  -User can create, retrieve, update, delete Tutorials.
+  -There is a search box for finding Tutorials by title.
 
  Project Structure of Node.js Express backend 
 =========================================
