@@ -4,7 +4,7 @@ React + Node.js + Express + MySQL example: Build a CRUD App
 
 Project Description
 ==================
-In this project, I had to learn about the React for the front end and Express framework of Node.js for Backend. As a first step, I will build step by step to build Node.js Restful CRUD API using Express, Sequelize with MySQL database. The main function of this web application is CRUD but we implement the functions by using express node.js for the backend.
+In this project, I had to learn about the React for the front end and Express framework of Node.js for Backend. As a first step, I will build step by step to build Node.js Restful CRUD API using Express, Sequelize with MySQL database. The back-end server uses Node.js + Express for REST APIs and Front-end side is a React.js client with React Router, Axios & Bootstrap.
 
  I had to  build a full-stack Tutorial Application in that: 
  1. Tutorial has id, title, description, published status.
